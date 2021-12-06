@@ -2149,7 +2149,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R
 Windows.Game:/Script/Alpakit.AlpakitSettings:SatisfactoryGamePath:0=(Path="D/Games/SteamLibrary/steamapps/common/Satisfactory")
 Windows.Game:/Script/Alpakit.AlpakitSettings:LaunchGameAfterPacking:0=STEAM
 Windows.Game:/Script/Alpakit.AlpakitSettings:bCopyModsToGame:0=True
-Windows.Game:/Script/Alpakit.AlpakitSettings:ModSelection:0=(("ExampleMod", False),("SML", False),("SMLEditor", False),("TechPriestMod", True))
+Windows.Game:/Script/Alpakit.AlpakitSettings:ModSelection:0=(("ExampleMod", False),("SML", True),("SMLEditor", True),("TechPriestMod", True))
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
 Windows.Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
